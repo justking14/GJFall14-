@@ -105,11 +105,13 @@ public class mapCreation : MonoBehaviour {
 	}
  
 
-	void OnGUI(){
-		string x  = "HS  "+bT.ToString();
+	/*void OnGUI(){
+		string y  = "CT  "+(Time.time - startTime).ToString();
+
+		string x  = "BT  "+bT.ToString();
 		ellapsedTime = (Time.time - startTime).ToString();
-		GUI.Label(new Rect(10, 10, 100, 20), ellapsedTime);
+		GUI.Label(new Rect(10, 10, 100, 20), y);
 		GUI.Label(new Rect(10, 30, 100, 20), x);
 
-	}
+	}*/
 }
