@@ -1,10 +1,9 @@
 ﻿<Properties>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\playerController.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\mapCreation.cs">
     <Files>
-      <File FileName="Assets\mapCreation.cs" Line="55" Column="28" />
-      <File FileName="Assets\playerController.cs" Line="81" Column="48" />
-      <File FileName="..\aifin\Assets\parentNode.cs" Line="15" Column="1" />
+      <File FileName="Assets\mapCreation.cs" Line="108" Column="4" />
+      <File FileName="Assets\playerController.cs" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
